@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Sup bro, i'm Apathyy, i am just having fun doing things like coding, using FL studio, using some of Adobe softwares and i guess i can call myself creative.<br><br>I play a lot of Dota, Overwatch, Cs2.</p>
+<p align="left">Sup, i'm Apathyy, i am just having fun doing things like coding, using FL studio, using some of Adobe softwares and i guess i can call myself creative.<br><br>I play a lot of Dota, Overwatch, Cs2.</p>
 
 ###
 
